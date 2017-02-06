@@ -1,0 +1,13 @@
+{
+  "middleware": [],
+  "routes": {
+    "Homepage": {
+      "path": "/",
+      "page": "pages/HomePage.js"
+    },
+    "ColorAPI": {
+      "path": "/api/color",
+      "page": "apis/ColorAPI.js"
+    }
+  }
+}
